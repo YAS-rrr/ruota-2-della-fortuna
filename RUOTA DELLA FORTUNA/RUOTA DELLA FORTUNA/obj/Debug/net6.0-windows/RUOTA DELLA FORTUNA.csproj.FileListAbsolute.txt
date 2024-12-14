@@ -1,0 +1,17 @@
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\RUOTA_DELLA_FORTUNA.Form1.resources
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\RUOTA_DELLA_FORTUNA.Properties.Resources.resources
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\RUOTA DELLA FORTUNA.csproj.GenerateResource.cache
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\RUOTA DELLA FORTUNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\RUOTA DELLA FORTUNA.AssemblyInfoInputs.cache
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\RUOTA DELLA FORTUNA.AssemblyInfo.cs
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\RUOTA DELLA FORTUNA.csproj.CoreCompileInputs.cache
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\bin\Debug\net6.0-windows\RUOTA DELLA FORTUNA.exe
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\bin\Debug\net6.0-windows\RUOTA DELLA FORTUNA.deps.json
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\bin\Debug\net6.0-windows\RUOTA DELLA FORTUNA.runtimeconfig.json
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\bin\Debug\net6.0-windows\RUOTA DELLA FORTUNA.dll
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\bin\Debug\net6.0-windows\RUOTA DELLA FORTUNA.pdb
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\RUOTA DELLA FORTUNA.dll
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\refint\RUOTA DELLA FORTUNA.dll
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\RUOTA DELLA FORTUNA.pdb
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\RUOTA DELLA FORTUNA.genruntimeconfig.cache
+C:\Users\ouldib.21029\source\repos\RUOTA DELLA FORTUNA\RUOTA DELLA FORTUNA\obj\Debug\net6.0-windows\ref\RUOTA DELLA FORTUNA.dll
